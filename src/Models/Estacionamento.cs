@@ -25,11 +25,10 @@ namespace DesafioFundamentos.Models
             Console.WriteLine("Digite a placa do veículo para remover:");
             placa = Console.ReadLine();
 
-
             // Verifica se o veículo existe
             if (veiculos.Any(x => x.ToUpper() == placa.ToUpper()))
             {
-                veiculos.Remove(placa);
+                    
                 decimal valorTotal = 0;
                 int horas = 0;
                 Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado:");

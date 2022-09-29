@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Marcus\\.nuget\\packages\\": {},
+    "C:\\Users\\ivanv\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\EstacionamentoCsharp\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectUniqueName": "D:\\Programação\\Projetos\\Exercicio Treinamento Buta\\Estacionamento\\DesafioFundamentos.csproj",
       "projectName": "DesafioFundamentos",
-      "projectPath": "E:\\EstacionamentoCsharp\\DesafioFundamentos\\DesafioFundamentos.csproj",
-      "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
-      "outputPath": "E:\\EstacionamentoCsharp\\DesafioFundamentos\\obj\\",
+      "projectPath": "D:\\Programação\\Projetos\\Exercicio Treinamento Buta\\Estacionamento\\DesafioFundamentos.csproj",
+      "packagesPath": "C:\\Users\\ivanv\\.nuget\\packages\\",
+      "outputPath": "D:\\Programação\\Projetos\\Exercicio Treinamento Buta\\Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ivanv\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
       }
     }
   }
